@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🌸 Hey there, I'm glad you're here!
 
-<!--
-**SADISHGUPTA/sadishgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio! I am a **Data Analyst** passionate about uncovering hidden patterns, solving complex business problems, and turning messy datasets into clear, actionable strategy. 
 
-Here are some ideas to get you started:
+Here in my GitHub, you will find a collection of my analytical workflows, from raw data extraction to final visualizations. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎯 What I Focus On:**
+* **🛠️ Rigorous Data Cleaning:** Transforming unstructured data, identifying anomalies, and handling missing variables to ensure absolute accuracy.
+* **📊 Exploratory Data Analysis:** Leveraging Python and Pandas to slice through large datasets and discover meaningful trends.
+* **💡 Strategic Insights:** Building reliable narratives and dashboards that help stakeholders make informed, data-driven decisions.
+
+Whether you're a recruiter looking for a clean, efficient codebase or a fellow data enthusiast, feel free to explore my repositories. Let's connect and build something impactful!
+
+**Let's connect, learn, and grow together—one dataset at a time.** 🚀
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](YOUR_YOUTUBE_URL_HERE)
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
